@@ -6,11 +6,11 @@
 
 
 
-Ce système est composé :
+Composants du système :
 
-+ d'une application iOS B2B
-+ de PrestatShop
-+ de bases de données relationnelles
++ application iOS B2B
++ PrestatShop
++ base de données relationnelle
 
 
 
