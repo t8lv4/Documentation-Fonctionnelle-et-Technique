@@ -9,7 +9,7 @@
 Composants du système :
 
 + application iOS B2B
-+ PrestatShop
++ PrestaShop
 + base de données relationnelle
 
 
@@ -40,7 +40,7 @@ Composants du système :
 
    + les choix techniques, concernant notamment :
 
-     + l'application iOS B2B
+     + l'application iOS
      + le site web marchand (PrestaShop)
      + l'environnement de développement
      + la gestion du déploiement
@@ -52,9 +52,9 @@ Composants du système :
    + les procédures de déploiement :
      + des bases de données
      + du site PrestaShop
-     + de l'application iOS B2B avec un MDM
+     + de l'application iOS avec un MDM
    + les procédures de tests des composants du système
-   + les procédures de maintenance des composants du système
+   + les procédures de maintenance des composants
    + un échéancier
    + en annexe, une description des principes de fonctionnement de l'APNs et de sa mise en place
 
